@@ -1,6 +1,7 @@
 # CRUID-Operations
 
-##Basic CRUD operations using MVC and Entity Framework
+## Basic CRUD operations using MVC and Entity Framework
+
 **Tech and Tools used**
 
 - .Net Core 3.0.
